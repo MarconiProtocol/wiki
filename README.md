@@ -6,7 +6,7 @@ For installation & mining guides, general project information and (in the future
 
 **[Marconi Wiki](https://github.com/MarconiProtocol/wiki/wiki)**
 
-We've also prepared some primers on the Marconi Protocol:
+We've also prepared severl primers on the Marconi Protocol:
 * [Architecture Intro](https://github.com/MarconiProtocol/wiki/wiki/Architecture-Overview)
 * [Developer Intro](https://github.com/MarconiProtocol/wiki/wiki/Developer-Overview)
 * [Network Admins Intro](https://github.com/MarconiProtocol/wiki/wiki/Network-Admin-Overview)
