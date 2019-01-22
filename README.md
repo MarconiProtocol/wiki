@@ -1,5 +1,5 @@
 # Welcome
-The Marconi Protocol is a new blockchain protocol using programmable packets to enhance security, privacy and net neutrality.
+The Marconi Protocol is a new blockchain protocol using programmable packets to enhance connectivity, security and privacy.
 
 # Getting Started
 For installation & mining guides, general project information and (in the future) details on how to contribute to the project please check out the:
